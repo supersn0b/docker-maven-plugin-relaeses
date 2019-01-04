@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>io.fabric8</groupId>
   <artifactId>docker-maven-plugin</artifactId>
-  <version>0.28-SNAPSHOT</version>
   <versioning>
-    <snapshot>
-      <localCopy>true</localCopy>
-    </snapshot>
-    <lastUpdated>20190104123405</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.28-SNAPSHOT</value>
-        <updated>20190104123405</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.28-SNAPSHOT</value>
-        <updated>20190104123405</updated>
-      </snapshotVersion>
-    </snapshotVersions>
+    <latest>0.28-SNAPSHOT</latest>
+    <release>0.28-SNAPSHOT</release>
+    <versions>
+      <version>0.28-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190104000000</lastUpdated>
   </versioning>
 </metadata>
